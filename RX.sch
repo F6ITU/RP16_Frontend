@@ -2062,6 +2062,12 @@ Wire Wire Line
 Connection ~ 2350 5000
 Wire Wire Line
 	2350 5000 3050 5000
+Text Notes 1300 3100 0    50   ~ 0
+Attenuator & Power In
+Text Notes 900  1550 0    50   ~ 0
+RX1 In
+Text Notes 800  3900 0    50   ~ 0
+RX2 In\n
 Wire Bus Line
 	2650 4050 2650 4250
 Wire Bus Line
@@ -2070,10 +2076,6 @@ Wire Bus Line
 	1850 3400 2050 3400
 Wire Bus Line
 	1850 2700 2050 2700
-Text Notes 1300 3100 0    50   ~ 0
-Attenuator & Power In
-Text Notes 900  1550 0    50   ~ 0
-RX1 In
-Text Notes 800  3900 0    50   ~ 0
-RX2 In\n
+Text Notes 6940 6880 0    157  ~ 31
+Red Pitaya 16 Frontend, RX section\n
 $EndSCHEMATC

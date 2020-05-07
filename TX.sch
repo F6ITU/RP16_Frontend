@@ -1843,12 +1843,11 @@ Wire Wire Line
 	4400 2970 4400 2130
 Wire Wire Line
 	4400 2130 4650 2130
-Wire Wire Line
-	4650 2970 4650 3230
 Connection ~ 4650 2130
 Wire Wire Line
 	4650 2130 4650 2270
-Connection ~ 4650 3230
 Wire Wire Line
-	4650 3230 4650 3450
+	4650 2970 4650 3450
+Text Notes 6950 6810 0    157  ~ 31
+Red Pitaya 16 Frontend, TX section
 $EndSCHEMATC
