@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name hermeslite)(type Legacy)(uri ${KIPRJMOD}/libs/hermeslite.lib)(options "")(descr ""))
+  (lib (name ADI_SignalCondition)(type Legacy)(uri ${KIPRJMOD}/libs/Analog_Device/ADI_SignalCondition.lib)(options "")(descr ""))
+  (lib (name mc-attenuators)(type Legacy)(uri ${KIPRJMOD}/libs/MiniCircuits/mc-attenuators.lib)(options "")(descr ""))
+  (lib (name mc-filters)(type Legacy)(uri ${KIPRJMOD}/libs/MiniCircuits/mc-filters.lib)(options "")(descr ""))
+  (lib (name mc-chokes)(type Legacy)(uri ${KIPRJMOD}/libs/MiniCircuits/mc-chokes.lib)(options "")(descr ""))
+  (lib (name mc-couplers)(type Legacy)(uri ${KIPRJMOD}/libs/MiniCircuits/mc-couplers.lib)(options "")(descr ""))
+)

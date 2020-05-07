@@ -1,0 +1,405 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADM3055E
+D Isolated CAN Transceiver, integrated isolated DC-DC converter, 1Mbps
+K can transceiver isolated protected
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADM3053.pdf
+$ENDCMP
+#
+$CMP LT1785.S8
+D LT1785, ±60V Fault Protected RS485/RS422 Transceivers, SOIC-8
+K ±60V protected RS485 RS422 transceiver
+F http://www.linear.com/product/LT1785
+$ENDCMP
+#
+$CMP LT1785A.S8
+D LT1785A, ±60V Fault Protected RS485/RS422 Transceivers failsafe, SOIC-8
+K ±60V failsafe protected RS485 RS422 transceiver
+F http://www.linear.com/product/LT1785
+$ENDCMP
+#
+$CMP LT1791.S
+D LT1791, ±60V Fault Protected RS485/RS422 Transceivers, SOIC-14
+K ±60V protected RS485 RS422 transceiver
+F http://www.linear.com/product/LT1791
+$ENDCMP
+#
+$CMP LT1791A.S
+D LT1791A, ±60V Fault Protected RS485/RS422 Transceivers failsafe, SOIC-14
+K ±60V protected failsafe RS485 RS422 transceiver
+F http://www.linear.com/product/LT1791
+$ENDCMP
+#
+$CMP LTC2850.DD
+D LTC2850, 3.3V 20Mbps RS485/RS422 Transceivers, DFN-8-1EP
+K 3.3V 20Mbps RS485/RS422 Transceivers
+F http://www.linear.com/product/LTC2850
+$ENDCMP
+#
+$CMP LTC2850.MS8
+D LTC2850, 3.3V 20Mbps RS485/RS422 Transceivers, MSOP-8
+K 3.3V 20Mbps RS485/RS422 Transceivers
+F http://www.linear.com/product/LTC2850
+$ENDCMP
+#
+$CMP LTC2850.S8
+D LTC2850, 3.3V 20Mbps RS485/RS422 Transceivers, SOIC-8
+K 3.3V 20Mbps RS485/RS422 Transceivers
+F http://www.linear.com/product/LTC2850
+$ENDCMP
+#
+$CMP LTC2851.DD
+D LTC2851, 3.3V 20Mbps RS485/RS422 Transceivers, DFN-8-1EP
+K 3.3V 20Mbps RS485/RS422 Transceivers
+F http://www.linear.com/product/LTC2851
+$ENDCMP
+#
+$CMP LTC2851.MS8
+D LTC2851, 3.3V 20Mbps RS485/RS422 Transceivers, MSOP-8
+K 3.3V 20Mbps RS485/RS422 Transceivers
+F http://www.linear.com/product/LTC2851
+$ENDCMP
+#
+$CMP LTC2851.S8
+D LTC2851, 3.3V 20Mbps RS485/RS422 Transceivers, SOIC-8
+K 3.3V 20Mbps RS485/RS422 Transceivers
+F http://www.linear.com/product/LTC2851
+$ENDCMP
+#
+$CMP LTC2852.DD
+D LTC2852, 3.3V 20Mbps RS485/RS422 Transceivers, DFN-10-1EP
+K 3.3V 20Mbps RS485/RS422 Transceivers
+F http://www.linear.com/product/LTC2852
+$ENDCMP
+#
+$CMP LTC2852.MS
+D LTC2852, 3.3V 20Mbps RS485/RS422 Transceivers, MSOP-10
+K 3.3V 20Mbps RS485/RS422 Transceivers
+F http://www.linear.com/product/LTC2852
+$ENDCMP
+#
+$CMP LTC2852.S
+D LTC2852, 3.3V 20Mbps RS485/RS422 Transceivers, SOIC-14
+K 3.3V 20Mbps RS485/RS422 Transceivers
+F http://www.linear.com/product/LTC2852
+$ENDCMP
+#
+$CMP LTC2854.DD
+D LTC2854, 3.3V 20Mbps RS485/RS422 Transceivers with Integrated Switchable Termination, DFN-10
+K 3.3V 20Mbps RS485/RS422 Transceivers Integrated Switchable Termination
+F http://www.linear.com/product/LTC2854
+$ENDCMP
+#
+$CMP LTC2855.DE
+D LTC2855, 3.3V 20Mbps RS485/RS422 Transceivers with Integrated Switchable Termination, DFN-12
+K 3.3V 20Mbps RS485/RS422 Transceivers Integrated Switchable Termination
+F http://www.linear.com/product/LTC2855
+$ENDCMP
+#
+$CMP LTC2855.GN
+D LTC2855, 3.3V 20Mbps RS485/RS422 Transceivers with Integrated Switchable Termination, SSOP-16
+K 3.3V 20Mbps RS485/RS422 Transceivers Integrated Switchable Termination
+F http://www.linear.com/product/LTC2855
+$ENDCMP
+#
+$CMP LTC2856.DD-1
+D LTC2856-1, 20Mbps 15kV RS485/RS422 Transceivers, DFN-8-1EP
+K 20Mbps 15kV RS485/RS422 Transceivers
+F http://www.linear.com/product/LTC2856-1
+$ENDCMP
+#
+$CMP LTC2856.DD-2
+D LTC2856-2, Slew Rate Limited 15kV RS485/RS422 Transceivers, DFN-8-1EP
+K Slew Rate Limited 15kV RS485/RS422 Transceivers
+F http://www.linear.com/product/LTC2856-1
+$ENDCMP
+#
+$CMP LTC2857.DD-1
+D LTC2857-1, 20Mbps 15kV RS485/RS422 Transceivers, DFN-8-1EP
+K 20Mbps 15kV RS485/RS422 Transceivers
+F http://www.linear.com/product/LTC2857
+$ENDCMP
+#
+$CMP LTC2857.DD-2
+D LTC2857-2, Slew Rate Limited 15kV RS485/RS422 Transceivers, DFN-8-1EP
+K Slew Rate Limited 15kV RS485/RS422 Transceivers
+F http://www.linear.com/product/LTC2857
+$ENDCMP
+#
+$CMP LTC2857.MS8-1
+D LTC2857-1, 20Mbps 15kV RS485/RS422 Transceivers, MSOP-8
+K 20Mbps 15kV RS485/RS422 Transceivers
+F http://www.linear.com/product/LTC2857
+$ENDCMP
+#
+$CMP LTC2857.MS8-2
+D LTC2857-2, Slew Rate Limited 15kV RS485/RS422 Transceivers, MSOP-8
+K Slew Rate Limited 15kV RS485/RS422 Transceivers
+F http://www.linear.com/product/LTC2857
+$ENDCMP
+#
+$CMP LTC2858.DD-1
+D LTC2858-1, 20Mbps 15kV RS485/RS422 Transceivers, DFN-10-1EP
+K 20Mbps Limited 15kV RS485/RS422 Transceivers
+F http://www.linear.com/product/LTC2858
+$ENDCMP
+#
+$CMP LTC2858.DD-2
+D LTC2858-2, Slew Rate Limited 15kV RS485/RS422 Transceivers, DFN-10-1EP
+K Slew Rate Limited 15kV RS485/RS422 Transceivers
+F http://www.linear.com/product/LTC2858
+$ENDCMP
+#
+$CMP LTC2861.DE
+D LTC2861, 20Mbps RS485/RS422 Transceivers with Integrated Switchable Termination, DFN-12
+K 20Mbps RS485/RS422 Transceivers Integrated Switchable Termination
+F http://www.linear.com/product/LTC2861
+$ENDCMP
+#
+$CMP LTC2861.GN
+D LTC2861, 20Mbps RS485/RS422 Transceivers with Integrated Switchable Termination, SSOP-16
+K 20Mbps RS485/RS422 Transceivers Integrated Switchable Termination
+F http://www.linear.com/product/LTC2861
+$ENDCMP
+#
+$CMP LTC2862.DD-1
+D LTC2862-1, ±60V Fault Protected 3V to 5.5V RS485/RS422 Transceivers 20Mbps, DFN-8-1EP
+K ±60V failsafe protected 3V 5V RS485 RS422 transceiver 20Mbps
+F http://www.linear.com/product/LTC2862
+$ENDCMP
+#
+$CMP LTC2862.DD-2
+D LTC2862-2, ±60V Fault Protected 3V to 5.5V RS485/RS422 Transceivers 250kbps, DFN-8-1EP
+K ±60V failsafe protected 3V 5V RS485 RS422 transceiver 250kbps
+F http://www.linear.com/product/LTC2862
+$ENDCMP
+#
+$CMP LTC2862.S8-1
+D LTC2862-1, ±60V Fault Protected 3V to 5.5V RS485/RS422 Transceivers 20Mbps, SOIC-8
+K ±60V failsafe protected 3V 5V RS485 RS422 transceiver 20Mbps
+F http://www.linear.com/product/LTC2862
+$ENDCMP
+#
+$CMP LTC2862.S8-2
+D LTC2862-2, ±60V Fault Protected 3V to 5.5V RS485/RS422 Transceivers 250kbps, SOIC-8
+K ±60V failsafe protected 3V 5V RS485 RS422 transceiver 250kbps
+F http://www.linear.com/product/LTC2862
+$ENDCMP
+#
+$CMP LTC2863.DD-1
+D LTC2863-1, ±60V Fault Protected 3V to 5.5V RS485/RS422 Transceivers 20Mbps, DFN-8-1EP
+K ±60V failsafe protected 3V 5V RS485 RS422 transceiver 20Mbps
+F http://www.linear.com/product/LTC2862
+$ENDCMP
+#
+$CMP LTC2863.DD-2
+D LTC2863-2, ±60V Fault Protected 3V to 5.5V RS485/RS422 Transceivers 250kbps, DFN-8-1EP
+K ±60V failsafe protected 3V 5V RS485 RS422 transceiver 250kbps
+F http://www.linear.com/product/LTC2862
+$ENDCMP
+#
+$CMP LTC2863.S8-1
+D LTC2863-1, ±60V Fault Protected 3V to 5.5V RS485/RS422 Transceivers 20Mbps, SOIC-8
+K ±60V failsafe protected 3V 5V RS485 RS422 transceiver 20Mbps
+F http://www.linear.com/product/LTC2862
+$ENDCMP
+#
+$CMP LTC2863.S8-2
+D LTC2863-2, ±60V Fault Protected 3V to 5.5V RS485/RS422 Transceivers 250kbps, SOIC-8
+K ±60V failsafe protected 3V 5V RS485 RS422 transceiver 250kbps
+F http://www.linear.com/product/LTC2862
+$ENDCMP
+#
+$CMP LTC2864.DD-1
+D LTC2864-1, ±60V Fault Protected 3V to 5.5V RS485/RS422 Transceivers 20Mbps, DFN-10-1EP
+K ±60V failsafe protected 3V 5V RS485 RS422 transceiver 20Mbps
+F http://www.linear.com/product/LTC2862
+$ENDCMP
+#
+$CMP LTC2864.DD-2
+D LTC2864-2, ±60V Fault Protected 3V to 5.5V RS485/RS422 Transceivers 250kbps, DFN-10-1EP
+K ±60V failsafe protected 3V 5V RS485 RS422 transceiver 250kbps
+F http://www.linear.com/product/LTC2862
+$ENDCMP
+#
+$CMP LTC2864.S-1
+D LTC2864-1, ±60V Fault Protected 3V to 5.5V RS485/RS422 Transceivers 20Mbps, SOIC-14
+K ±60V failsafe protected 3V 5V RS485 RS422 transceiver 20Mbps
+F http://www.linear.com/product/LTC2862
+$ENDCMP
+#
+$CMP LTC2864.S-2
+D LTC2864-2, ±60V Fault Protected 3V to 5.5V RS485/RS422 Transceivers 250kbps, SOIC-14
+K ±60V failsafe protected 3V 5V RS485 RS422 transceiver 250kbps
+F http://www.linear.com/product/LTC2862
+$ENDCMP
+#
+$CMP LTC2875.S8
+D LTC2875, ±60V Fault Protected 3.3V or 5V 25kV ESD High Speed CAN Transceiver, SOIC-8
+K ±60V protected CAN transceiver
+F http://www.linear.com/product/LTC2875
+$ENDCMP
+#
+$CMP LTC2876.DD
+D LTC2876, ±60V Rugged PROFIBUS RS485 Transceivers, DFN-8-1EP
+K ±60V profibus failsafe protected 3V 5V RS485 transceiver
+F http://www.linear.com/product/LTC2876
+$ENDCMP
+#
+$CMP LTC2876.MS8E
+D LTC2876, ±60V Rugged PROFIBUS RS485 Transceivers, MSOP-8-1EP
+K ±60V profibus failsafe protected 3V 5V RS485 transceiver
+F http://www.linear.com/product/LTC2876
+$ENDCMP
+#
+$CMP LTC2877.DD
+D LTC2877, ±60V Rugged PROFIBUS RS485 Transceivers, DFN-10-1EP
+K ±60V profibus failsafe protected 3V 5V RS485 transceiver
+F http://www.linear.com/product/LTC2876
+$ENDCMP
+#
+$CMP LTC2877.MSE
+D LTC2877, ±60V Rugged PROFIBUS RS485 Transceivers, MSOP-10-1EP
+K ±60V profibus failsafe protected 3V 5V RS485 transceiver
+F http://www.linear.com/product/LTC2876
+$ENDCMP
+#
+$CMP LTM2881.V-3
+D LTM2881-3, Isolated RS485/RS422 μModule Transceiver + Power, LGA-32
+K Isolated RS485/RS422 μModule Transceiver Power
+F http://www.linear.com/product/LTM2881
+$ENDCMP
+#
+$CMP LTM2881.V-5
+D LTM2881-5, Isolated RS485/RS422 μModule Transceiver + Power, LGA-32
+K Isolated RS485/RS422 μModule Transceiver Power
+F http://www.linear.com/product/LTM2881
+$ENDCMP
+#
+$CMP LTM2881.Y-3
+D LTM2881-3, Isolated RS485/RS422 μModule Transceiver + Power, BGA-32
+K Isolated RS485/RS422 μModule Transceiver Power
+F http://www.linear.com/product/LTM2881
+$ENDCMP
+#
+$CMP LTM2881.Y-5
+D LTM2881-5, Isolated RS485/RS422 μModule Transceiver + Power, BGA-32
+K Isolated RS485/RS422 μModule Transceiver Power
+F http://www.linear.com/product/LTM2881
+$ENDCMP
+#
+$CMP LTM2883.Y-3I
+D LTM2883-3I, I2C Isolator with Adjustable ±12.5V and 5V Regulated Power, BGA-32
+K Isolator Adjustable ±12.5V 5V Regulated Power I2C
+F http://www.linear.com/product/LTM2883
+$ENDCMP
+#
+$CMP LTM2883.Y-3S
+D LTM2883-3S, Isolator with Adjustable ±12.5V and 5V Regulated Power, BGA-32
+K Isolator Adjustable ±12.5V 5V Regulated Power
+F http://www.linear.com/product/LTM2883
+$ENDCMP
+#
+$CMP LTM2883.Y-5I
+D LTM2883-5I, Isolator with Adjustable ±12.5V and 5V Regulated Power, BGA-32
+K Isolator Adjustable ±12.5V 5V Regulated Power
+F http://www.linear.com/product/LTM2883
+$ENDCMP
+#
+$CMP LTM2883.Y-5S
+D LTM2883-5S, SPI Isolator with Adjustable ±12.5V and 5V Regulated Power, BGA-32
+K Isolator Adjustable ±12.5V 5V Regulated Power SPI
+F http://www.linear.com/product/LTM2883
+$ENDCMP
+#
+$CMP LTM2884.Y
+D LTM2884, 2500VRMS Isolated USB Transceiver with Isolated Power, BGA-44
+K Isolated USB Transceiver Power
+F http://www.linear.com/product/LTM2884
+$ENDCMP
+#
+$CMP LTM2885.Y
+D LTM2885, 6500VRMS Isolated RS485/RS422 μModule Transceiver + Power, BGA-42
+K Isolated RS485/RS422 μModule Transceiver Power
+F http://www.linear.com/product/LTM2885
+$ENDCMP
+#
+$CMP LTM2886.Y-3I
+D LTM2886-3I, I2C Isolator with Fixed ±5V and Adjustable 5V Regulated Power, BGA-32
+K Isolator Fixed ±5V Adjustable 5V Regulated Power
+F http://www.linear.com/product/LTM2886
+$ENDCMP
+#
+$CMP LTM2886.Y-3S
+D LTM2886-3S, SPI Isolator with Fixed ±5V and Adjustable 5V Regulated Power, BGA-32
+K Isolator Fixed ±5V Adjustable Regulated Power SPI
+F http://www.linear.com/product/LTM2886
+$ENDCMP
+#
+$CMP LTM2886.Y-5I
+D LTM2886-5I, I2C Isolator with Fixed ±5V and Adjustable 5V Regulated Power, BGA-32
+K Isolator Fixed ±5V Adjustable 5V Regulated Power
+F http://www.linear.com/product/LTM2886
+$ENDCMP
+#
+$CMP LTM2886.Y-5S
+D LTM2886-5S, SPI Isolator with Fixed ±5V and Adjustable 5V Regulated Power, BGA-32
+K Isolator Fixed ±5V Adjustable Regulated Power SPI
+F http://www.linear.com/product/LTM2886
+$ENDCMP
+#
+$CMP LTM2887.Y-3I
+D LTM2887-3I, Isolator with Dual Adjustable 5V Regulators, BGA-32
+K Isolator Adjustable 5V Regulators
+F http://www.linear.com/product/LTM2887
+$ENDCMP
+#
+$CMP LTM2887.Y-3S
+D LTM2887-3S, Isolator with Dual Adjustable 5V Regulators, BGA-32
+K Isolator Adjustable 5V Regulators
+F http://www.linear.com/product/LTM2887
+$ENDCMP
+#
+$CMP LTM2887.Y-5I
+D LTM2887-5I, Isolator with Dual Adjustable 5V Regulators, BGA-32
+K Isolator Adjustable 5V Regulators
+F http://www.linear.com/product/LTM2887
+$ENDCMP
+#
+$CMP LTM2887.Y-5S
+D LTM2887-5S, Isolator with Dual Adjustable 5V Regulators, BGA-32
+K Isolator Adjustable 5V Regulators
+F http://www.linear.com/product/LTM2887
+$ENDCMP
+#
+$CMP LTM2889.Y-3
+D LTM2889-3, Isolated CAN FD μModule Transceiver and Power, BGA-32
+K Isolated CAN FD μModule Transceiver
+F http://www.linear.com/product/LTM2889
+$ENDCMP
+#
+$CMP LTM2889.Y-5
+D LTM2889-5, Isolated CAN FD μModule Transceiver and Power, BGA-32
+K Isolated CAN FD μModule Transceiver
+F http://www.linear.com/product/LTM2889
+$ENDCMP
+#
+$CMP LTM2893.Y
+D LTM2893, 100MHz Isolated ADC Serial Interface, BGA-36
+K 100MHz Isolated ADC Serial Interface
+F http://www.linear.com/product/LTM2893
+$ENDCMP
+#
+$CMP LTM2893.Y-1
+D LTM2893-1, 100MHz Isolated ADC Serial Interface, BGA-36
+K 100MHz Isolated ADC Serial Interface
+F http://www.linear.com/product/LTM2893
+$ENDCMP
+#
+$CMP LTM2894.Y
+D LTM2894, 7500VRMS Isolated USB Transceiver, BGA-24
+K Isolated USB Transceiver
+F http://www.linear.com/product/LTM2894
+$ENDCMP
+#
+#End Doc Library

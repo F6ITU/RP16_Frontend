@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DAT-31A-SP+
+D 31 dB, 1.0 dB Step Attenuator, 5 Bit, Serial control interface
+K attenuator
+$ENDCMP
+#
+#End Doc Library
